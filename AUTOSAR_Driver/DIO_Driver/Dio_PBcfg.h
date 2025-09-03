@@ -6,7 +6,7 @@
  *
  * Description: Post Build Configuration header file for TM4C123GH6PM Microcontroller - Dio Driver
  *
- * Author: Ahmed AbdElgleel
+ * Author: Adham Muhammed
  ******************************************************************************/
 #ifndef DIO_PBCFG_H_
 #define DIO_PBCFG_H_
@@ -80,3 +80,4 @@ extern const Dio_ConfigType Dio_Configuration;
 
 
 #endif /* DIO_PBCFG_H_ */
+
